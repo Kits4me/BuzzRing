@@ -3,3 +3,26 @@
 ################################################################################
 
 /.vs/BuzzRing/v16
+/BuzzRing.sln
+/BuzzRing/__vm/.BuzzRing.vsarduino.h
+/BuzzRing/__vm
+/BuzzRing/src/arduino folders read me.txt
+/BuzzRing/src
+/BuzzRing/BuzzRing.vcxproj.user
+/BuzzRing/BuzzRing.vcxproj.filters
+/BuzzRing/BuzzRing.vcxproj
+/BuzzRing/Debug/VM_DBG/VM_mem_check_sam.cpp.o
+/BuzzRing/Debug/VM_DBG/VM_mem_check_sam.cpp.d
+/BuzzRing/Debug/VM_DBG/VM_DBG.cpp.o
+/BuzzRing/Debug/VM_DBG/VM_DBG.cpp.d
+/BuzzRing/Debug/BuzzRing.with_bootloader.hex
+/BuzzRing/Debug/BuzzRing.ino.with_bootloader.hex
+/BuzzRing/Debug/BuzzRing.ino.hex
+/BuzzRing/Debug/BuzzRing.ino.elf
+/BuzzRing/Debug/BuzzRing.ino.eep
+/BuzzRing/Debug/BuzzRing.hex
+/BuzzRing/Debug/BuzzRing.elf
+/BuzzRing/Debug/BuzzRing.eep
+/BuzzRing/Debug/BuzzRing.cpp.o
+/BuzzRing/Debug/BuzzRing.cpp.d
+/BuzzRing/Debug/board.buildinfo
