@@ -42,7 +42,7 @@ void showTimeNoWait(int min, int sec) {
     data[1] = char('0' + min % 10);
     data[2] = (sec < 10) ? '0' : char('0' + sec / 10);
     data[3] = char('0' + sec % 10);
-    Serial.println(data);
+    //Serial.println(data);
     my4x7seg.write(data, 4);
     my4x7seg.refresh(1000);
     //my4x7seg.send();
